@@ -1,0 +1,14 @@
+.menu-list {
+  display: flex;
+  gap: 30px;
+}
+
+.menu-list .menu-item {
+  color: #fff;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.menu-list .menu-item-active {
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+.app-header .header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-header .header-actions {
+  display: flex;
+  gap: 32px;
+}
